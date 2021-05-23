@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jasleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleen8713&count_private=true)
+![Jasleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleen8713&count_private=true&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen8713)](https://github.com/anuraghazra/github-readme-stats)
+
